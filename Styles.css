@@ -2,7 +2,7 @@
 :root {
     --bg-color: #f3f3f5;
     --primary-color: #000000;
-    --secondary-color: #000878;
+    --secondary-color: #0d125cea;
     --accent-color: #7cbb74;
     --font-color: #000000;
     font-size: 14px;
@@ -12,7 +12,8 @@ body {
     font-family: "DM Sans", sans-serif;
     font-size: 16px;
     font-optical-sizing: auto;
-    font-style: normal;
+    font-style: normal; 
+    color: #0d125cea;
     min-width: 320px;
 }
 
