@@ -6,12 +6,24 @@
     --accent-color: #7cbb74;
     --font-color: #000000;
     font-size: 14px;
-  }
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+  
+.clearfix{
+    float: none;
+    clear: both;
+}
+
 body {
     font-family: "DM Sans", sans-serif;
     font-size: 14px;
     font-optical-sizing: auto;
     font-style: normal;
+    min-width: 320px;
 }
 
 a {
@@ -47,6 +59,7 @@ div.aside {
     line-height: 450px;
     text-align: center;
 }
+
 /*the content here will override the styles in the divs*/
 p {
     font-family: "DM Sans", sans-serif;
