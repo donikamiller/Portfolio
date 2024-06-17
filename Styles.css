@@ -1,19 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
-
+:root {
+    --bg-color: #f3f3f5;
+    --primary-color: #000000;
+    --secondary-color: #047800;
+    --accent-color: #94daff;
+    --font-color: #000000;
+    font-size: 10px;
+  }
 body {
     font-family: "DM Sans", sans-serif;
+    font-size: 10px;
     font-optical-sizing: auto;
     font-style: normal;
 }
 
 a {
     text-decoration: underline;
-    color: rgb(4, 139, 60);
+    color: #047800;
 }
 
 a:hover {
     text-decoration: underline;
-    color: black;
+    color: #000000;
 }
 
 /*multiple elements using a coma separator*/
