@@ -37,6 +37,7 @@ div.header {
 
 div.footer {
     background-color: #f3f3f5;
+    width: 100%;
 }
 
 div.aside {
@@ -50,7 +51,7 @@ div.aside {
 }
 
 div.examples {
-    width: 70%;
+    width: 75%;
     min-height: 450px;
     padding: 20px;
     background-color: #FFFFFF;
