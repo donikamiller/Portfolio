@@ -23,11 +23,11 @@ h1, h2 {
 div.header {
     font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
-    font-weight: 500;
+  font-size: large;
   font-style: normal;
 }
 
-div {
+div.footer {
     background-color: red;
 }
 
