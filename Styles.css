@@ -21,8 +21,6 @@ body {
     margin: 30px auto;
     width: 80%;
     height: 600px;
-    background-color: darksalmon;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 #header {
@@ -49,7 +47,7 @@ body {
     width: 75%;
     min-height: 24px;
     background-color: #FFFFFF;
-    float: left;
+    float: right;
 }
 
 a {
