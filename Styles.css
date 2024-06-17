@@ -16,25 +16,25 @@ body {
     min-width: 320px;
 }
 
-#container {
+div.container {
     padding: 20px;
     margin: 30px auto;
     width: 80%;
     height: 600px;
 }
 
-#header {
+div.header {
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-size: 28pt;
     font-style: normal;
 }
 
-#footer {
+div.footer {
     background-color: #f3f3f5;
 }
 
-#aside {
+div.aside {
     width: 25%;
     min-height: 450px;
     float: left;
@@ -43,7 +43,7 @@ body {
     text-align: center;
 }
 
-#examples {
+div.examples {
     width: 75%;
     min-height: 24px;
     background-color: #FFFFFF;
