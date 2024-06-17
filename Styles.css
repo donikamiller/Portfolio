@@ -13,7 +13,7 @@ body {
     font-size: 16px;
     font-optical-sizing: auto;
     font-style: normal; 
-    color: #0d125cea;
+    background-color: #7cbb74;
     min-width: 320px;
 }
 
@@ -27,6 +27,7 @@ body {
     margin: 30px auto;
     width: 80%;
     height: 600px;
+    background-color: #FFFFFF;
 }
 
 div.header {
