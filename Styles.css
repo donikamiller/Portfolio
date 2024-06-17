@@ -16,7 +16,12 @@ body {
     min-width: 320px;
 }
 
-div.container {
+.clearfix {
+    float: none;
+    clear: both;
+}
+
+#container {
     padding: 20px;
     margin: 30px auto;
     width: 80%;
@@ -46,6 +51,7 @@ div.aside {
 div.examples {
     width: 75%;
     min-height: 24px;
+    padding: 20px;
     background-color: #FFFFFF;
     float: right;
 }
