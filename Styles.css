@@ -8,22 +8,22 @@ body {
 
 a {
     text-decoration: none;
-    color: black;
-    background-color: rgba(255, 0, 0, 0.5);
+    color: rgb(4, 139, 60);
 }
 
 a:hover {
-    color: white;
+    color: black;
+    font-style: italic;
 }
 
 /*x-ms-webview canvas set style form multiple elements using a coma separator*/
 h1, h2 {
-    background-color: yellow;
+    font-size: 20pt;
 }
 div.header {
     font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
-  font-size: large;
+  font-size: 28pt;
   font-style: normal;
 }
 
