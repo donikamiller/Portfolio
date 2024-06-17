@@ -20,6 +20,12 @@ a:hover {
 h1, h2 {
     background-color: yellow;
 }
+div.header {
+    font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+    font-weight: 500;
+  font-style: normal;
+}
 
 div {
     background-color: red;
