@@ -2,29 +2,29 @@
 
 body {
     font-family: "DM Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: rgb(4, 139, 60);
 }
 
 a:hover {
+    text-decoration: underline;
     color: black;
-    font-style: italic;
 }
 
-/*x-ms-webview canvas set style form multiple elements using a coma separator*/
+/*multiple elements using a coma separator*/
 h1, h2 {
     font-size: 20pt;
 }
 div.header {
     font-family: "DM Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-size: 28pt;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-size: 28pt;
+    font-style: normal;
 }
 
 div.footer {
