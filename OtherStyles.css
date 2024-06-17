@@ -37,23 +37,23 @@ aside{
   min-height: 450px;
   float: left;
   background-color: lightgrey;
-  line-height: 450px;
+  line-height: 24px;
   text-align: center;
 }
 
-#articles{
+#examples{
   width: 75%;
   min-height: 450px;
   background-color: skyblue;
   float: left;
 }
 
-#articles article{
+#examples example{
   width: 30%;
   height: 100px;
   background-color: tomato;
   color: cornsilk;
-  line-height: 100px;
+  line-height: 24px;
   text-align: center;
   border: 1px solid white;
   float: left;
