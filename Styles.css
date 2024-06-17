@@ -39,6 +39,15 @@ div.footer {
     background-color: #f3f3f5;
 }
 
+div.aside
+{
+    width: 25%;
+    min-height: 450px;
+    float: left;
+    background-color: lightgrey;
+    line-height: 450px;
+    text-align: center;
+  }
 /*the content here will override the styles in the divs*/
 p {
     font-family: "DM Sans", sans-serif;
