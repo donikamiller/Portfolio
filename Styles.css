@@ -43,7 +43,7 @@ div.aside {
     width: 25%;
     min-height: 450px;
     float: left;
-    background-color: lightgrey;
+    background-color: #f3f3f5;
     line-height: 450px;
     text-align: center;
 }
