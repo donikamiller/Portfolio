@@ -70,8 +70,12 @@ a:hover {
 }
 
 /*multiple elements using a coma separator*/
-h1, h2 {
+h1 {
     font-size: 20pt;
+}
+
+h2 {
+    font-size: 16pt;
 }
 
 /*the content here will override the styles in the divs*/
