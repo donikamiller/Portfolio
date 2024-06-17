@@ -2,8 +2,8 @@
 :root {
     --bg-color: #f3f3f5;
     --primary-color: #000000;
-    --secondary-color: #047800;
-    --accent-color: #cab9c2;
+    --secondary-color: #000878;
+    --accent-color: #7cbb74;
     --font-color: #000000;
     font-size: 14px;
   }
@@ -36,7 +36,7 @@ div.header {
 }
 
 div.footer {
-    background-color: rgba(80, 78, 78, 0.164);
+    background-color: #f3f3f5;
 }
 
 /*the content here will override the styles in the divs*/
