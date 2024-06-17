@@ -28,7 +28,7 @@ div.header {
 }
 
 div.footer {
-    background-color: red;
+    background-color: rgba(80, 78, 78, 0.164);
 }
 
 /*the content here will get aqua color-profile because datalist the last rule apllied*/
