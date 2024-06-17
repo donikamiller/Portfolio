@@ -34,7 +34,9 @@ div.footer {
 /*the content here will get aqua color-profile because datalist the last rule apllied*/
 /*you canvas think that paragraph as having overriden the background guven by the div*/
 p {
-    background-color: aqua;
+    font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 12pt;
 }
 
 /*just the identified element by its id*/
