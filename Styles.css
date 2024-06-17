@@ -7,16 +7,6 @@
     --font-color: #000000;
     font-size: 14px;
 }
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-  
-.clearfix{
-    float: none;
-    clear: both;
-}
 
 body {
     font-family: "DM Sans", sans-serif;
@@ -24,6 +14,42 @@ body {
     font-optical-sizing: auto;
     font-style: normal;
     min-width: 320px;
+}
+
+#container {
+    padding: 20px;
+    margin: 30px auto;
+    width: 80%;
+    height: 600px;
+    background-color: darksalmon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 28pt;
+    font-style: normal;
+}
+
+#footer {
+    background-color: #f3f3f5;
+}
+
+#aside {
+    width: 25%;
+    min-height: 450px;
+    float: left;
+    background-color: #f3f3f5;
+    line-height: 450px;
+    text-align: center;
+}
+
+#examples {
+    width: 75%;
+    min-height: 450px;
+    background-color: #FFFFFF;
+    float: left;
 }
 
 a {
@@ -39,25 +65,6 @@ a:hover {
 /*multiple elements using a coma separator*/
 h1, h2 {
     font-size: 20pt;
-}
-div.header {
-    font-family: "DM Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-size: 28pt;
-    font-style: normal;
-}
-
-div.footer {
-    background-color: #f3f3f5;
-}
-
-div.aside {
-    width: 25%;
-    min-height: 450px;
-    float: left;
-    background-color: #f3f3f5;
-    line-height: 450px;
-    text-align: center;
 }
 
 /*the content here will override the styles in the divs*/
