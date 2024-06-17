@@ -41,13 +41,13 @@ body {
     min-height: 450px;
     float: left;
     background-color: #f3f3f5;
-    line-height: 450px;
+    line-height: 20px;
     text-align: center;
 }
 
 #examples {
     width: 75%;
-    min-height: 450px;
+    min-height: 24px;
     background-color: #FFFFFF;
     float: left;
 }
