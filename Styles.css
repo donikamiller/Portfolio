@@ -52,13 +52,12 @@ div.examples {
     width: 70%;
     min-height: 500px;
     padding: 20px;
-    background-color: var(--bg-color);
     float: left;
 }
 
 div.footer {
     background-color: var(--bg-color);
-    width: 90%;
+    width: 100%;
 }
 
 a {
