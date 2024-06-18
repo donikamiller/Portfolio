@@ -49,7 +49,7 @@ div.aside {
 }
 
 div.examples {
-    width: 75%;
+    width: 70%;
     min-height: 450px;
     padding: 20px;
     background-color: #f7f7fa;
@@ -73,11 +73,12 @@ a:hover {
 
 h1 {
     font-size: 20pt;
+    color: var(--font-color);
 }
 
 h2 {
     font-size: 16pt;
-    color: var(--primary-color);
+    color: var(--bg-color);
 }
 
 
@@ -91,5 +92,5 @@ p.aside {
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-    color: var(--primary-color);
+    color: var(--bg-color);
 }
