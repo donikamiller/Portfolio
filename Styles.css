@@ -71,27 +71,24 @@ a:hover {
     color: #000000;
 }
 
-/*multiple elements using a coma separator*/
 h1 {
     font-size: 20pt;
 }
 
 h2 {
     font-size: 16pt;
+    font-style: var(--primary-color);
 }
 
-/*the content here will override the styles in the divs*/
+
 p {
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
 }
 
-/*just the identified element by its id*/
-#content {
-    background-color: green;
-}
-/*classes can be used anywhere*/
-.quotation {
-    background-color: blueviolet;
+p.aside {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal; var(--primary-color);
 }
