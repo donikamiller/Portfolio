@@ -27,7 +27,7 @@ body {
     margin: 30px auto;
     width: 80%;
     min-height: 500px;
-    background-color: #FFFFFF;
+    background-color: var(--primary-color);
 }
 
 div.header {
@@ -51,13 +51,13 @@ div.aside {
 div.examples {
     width: 70%;
     min-height: 500px;
-    padding: 30px;
-    background-color: #f7f7fa;
+    padding: 20px;
+    background-color: var(--bg-color);
     float: left;
 }
 
 div.footer {
-    background-color: #f7f7fa;
+    background-color: var(--bg-color);
     width: 90%;
 }
 
