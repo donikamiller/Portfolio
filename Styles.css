@@ -2,7 +2,7 @@
 :root {
     --bg-color: #f7f7fa;
     --primary-color: #ffffff;
-    --secondary-color: #52586b;
+    --secondary-color: #047800;
     --accent-color: #11972e5d;
     --font-color: #52586b;
     font-size: 14px;
@@ -10,7 +10,7 @@
 
 body {
     font-family: "DM Sans", sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     font-optical-sizing: auto;
     font-style: normal; 
     background-color: var(--accent-color);
@@ -49,7 +49,7 @@ div.aside {
 }
 
 div.examples {
-    width: 70%;
+    width: 75%;
     min-height: 450px;
     padding: 20px;
     background-color: #f7f7fa;
@@ -63,7 +63,7 @@ div.footer {
 
 a {
     text-decoration: underline;
-    color: #047800;
+    color: var(--secondary-color);
 }
 
 a:hover {
@@ -77,7 +77,7 @@ h1 {
 
 h2 {
     font-size: 16pt;
-    font-style: var(--primary-color);
+    color: var(--primary-color);
 }
 
 
@@ -90,5 +90,6 @@ p {
 p.aside {
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
-    font-style: normal; var(--primary-color);
+    font-style: normal;
+    color: var(--primary-color);
 }
