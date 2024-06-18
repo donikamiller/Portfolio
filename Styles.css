@@ -44,7 +44,7 @@ div.aside {
     padding: 20px;
     float: left;
     background-color: var(--font-color);
-    line-height: 20px;
+    line-height: 50px;
     text-align: left;
 }
 
