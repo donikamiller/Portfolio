@@ -26,7 +26,7 @@ body {
     padding: 20px;
     margin: 30px auto;
     width: 80%;
-    height: 600px;
+    height: 1000px;
     background-color: #FFFFFF;
 }
 
@@ -35,6 +35,8 @@ div.header {
     font-optical-sizing: auto;
     font-size: 28pt;
     font-style: normal;
+    color: var(--font-color);
+    text-indent: 10px;
 }
 
 div.aside {
@@ -58,7 +60,7 @@ div.examples {
 
 div.footer {
     background-color: #f7f7fa;
-    width: 80%;
+    width: 100%;
 }
 
 a {
