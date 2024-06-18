@@ -24,7 +24,7 @@ body {
 
 #container {
     padding: 20px;
-    margin: 30px auto;
+    margin: 30px;
     width: 80%;
     min-height: 500px;
     background-color: var(--primary-color);
@@ -42,7 +42,7 @@ div.aside {
     width: 20%;
     min-height: 500px;
     padding: 20px;
-    float: left;
+    float: right;
     background-color: var(--font-color);
     line-height: 50px;
     text-align: left;
@@ -78,7 +78,6 @@ h1 {
 h2 {
     font-size: 16pt;
     color: var(--bg-color);
-}
 
 
 p {
