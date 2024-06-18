@@ -2,7 +2,7 @@
 :root {
     --bg-color: #f7f7fa;
     --primary-color: #ffffff;
-    --secondary-color: #047800;
+    --secondary-color: #27ac22;
     --accent-color: #11972e5d;
     --font-color: #52586b;
     font-size: 14px;
@@ -58,7 +58,7 @@ div.examples {
 
 div.footer {
     background-color: #f7f7fa;
-    width: 100%;
+    width: 95%;
 }
 
 a {
@@ -68,7 +68,7 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: #000000;
+    color: var(--font-color);
 }
 
 h1 {
