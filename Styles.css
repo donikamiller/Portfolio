@@ -36,7 +36,7 @@ div.header {
     font-size: 28pt;
     font-style: normal;
     color: var(--font-color);
-    text-indent: 10px;
+    text-indent: 20px;
 }
 
 div.aside {
@@ -53,7 +53,7 @@ div.aside {
 div.examples {
     width: 70%;
     min-height: 450px;
-    padding: 20px;
+    padding: 30px;
     background-color: #f7f7fa;
     float: left;
 }
