@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 :root {
-    --bg-color: #ebc830fa;
+    --bg-color: #f1eaeffa;
     --primary-color: #ffffff;
     --secondary-color: #27ac22;
-    --accent-color: #b9e26d;
+    --accent-color: #b4e45c;
     --font-color: #7c5919;
     font-size: 14px;
 }
@@ -20,6 +20,7 @@ body {
 .clearfix {
     float: none;
     clear: both;
+    align-self: center;
 }
 
 #container {
