@@ -77,18 +77,20 @@ a:hover {
 
 h1 {
     font-size: 20pt;
-    color: var(--font-color);
+    color: var(--secondary-color);
+    text-align: center;
 }
 
 h2 {
     font-size: 16pt;
-    color: var(--secondary-color);
+    color: var(--font-color);
 }
 
 p {
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
+    color: var(--font-color);
 }
 
 p.aside {
