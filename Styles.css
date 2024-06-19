@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 :root {
-    --bg-color: #ca902513;
+    --bg-color: #ebc830fa;
     --primary-color: #ffffff;
     --secondary-color: #27ac22;
-    --accent-color: #e5fcf8;
+    --accent-color: #b9e26d;
     --font-color: #7c5919;
     font-size: 14px;
 }
@@ -78,7 +78,7 @@ h1 {
 
 h2 {
     font-size: 16pt;
-    color: var(--bg-color);
+    color: var(--secondary-color);
 
 
 p {
