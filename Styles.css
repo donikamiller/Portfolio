@@ -28,7 +28,7 @@ body {
     width: 80%;
     min-height: 500px;
     background-color: var(--primary-color);
-    align-content: center;
+    float: none;
 }
 
 div.header {
@@ -54,7 +54,7 @@ div.examples {
     width: 70%;
     min-height: 500px;
     padding: 20px;
-    float: left;
+    float: none;
     background-color: var(--bg-color);
 }
 
