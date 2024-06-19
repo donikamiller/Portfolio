@@ -26,10 +26,11 @@ body {
     padding: 20px;
     margin: 30px;
     width: 80%;
+    float: none;
+    position: inherit;
     min-height: 500px;
     background-color: var(--primary-color);
-    float: none;
-    align-self: center;
+    
 }
 
 div.header {
