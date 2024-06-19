@@ -3,7 +3,7 @@
     --bg-color: #f1eaeffa;
     --primary-color: #ffffff;
     --secondary-color: #27ac22;
-    --accent-color: #b4e45c;
+    --accent-color: #b0db60;
     --font-color: #7c5919;
     font-size: 14px;
 }
@@ -20,7 +20,6 @@ body {
 .clearfix {
     float: none;
     clear: both;
-    align-self: center;
 }
 
 #container {
@@ -29,6 +28,7 @@ body {
     width: 80%;
     min-height: 500px;
     background-color: var(--primary-color);
+    align-self: center;
 }
 
 div.header {
