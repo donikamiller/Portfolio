@@ -56,7 +56,7 @@ div.examples {
     width: 70%;
     min-height: 500px;
     padding: 20px;
-    float: none;
+    float: left;
     background-color: var(--bg-color);
 }
 
