@@ -29,6 +29,7 @@ body {
     min-height: 500px;
     background-color: var(--primary-color);
     float: none;
+    align-self: center;
 }
 
 div.header {
