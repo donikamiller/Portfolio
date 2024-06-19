@@ -28,7 +28,7 @@ body {
     width: 80%;
     min-height: 500px;
     background-color: var(--primary-color);
-    align-self: center;
+    align-content: center;
 }
 
 div.header {
