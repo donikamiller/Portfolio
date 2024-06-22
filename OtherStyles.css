@@ -64,7 +64,6 @@ aside{
   height: 100px;
   background-color: var(--bg-color);
   color: var(--font-color);
-  line-height: 100px;
   text-align: center;
   border: 1px solid var(--secondary-color);
   float: left;
