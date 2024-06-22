@@ -28,7 +28,6 @@ body {
     width: 80%;
     align-self: center;
     float: none;
-    position: inherit;
     min-height: 500px;
     background-color: var(--primary-color);
     
