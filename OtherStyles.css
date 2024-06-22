@@ -70,6 +70,34 @@ aside{
   margin: 30px;
 }
 
+h1 {
+  font-size: 20pt;
+  color: var(--font-color);
+  text-align: center;
+}
+
+h2 {
+  font-size: 16pt;
+  color: var(--font-color);
+}
+
+p {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: var(--font-color);
+}
+
+a {
+  text-decoration: underline;
+  color: var(--secondary-color);
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--font-color);
+}
+
 @media (min-width:320px) and (max-width: 480px){
   header{
     line-height: 70px;
