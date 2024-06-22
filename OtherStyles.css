@@ -48,7 +48,7 @@ aside{
   min-height: 450px;
   float: left;
   background-color: var(--primary-color);
-  line-height: 450px;
+  line-height: 50px;
   text-align: center;
 }
 
@@ -72,13 +72,15 @@ aside{
 }
 
 h1 {
-  font-size: 20pt;
+  font-size: 20px;
+  line-height: 25px;
   color: var(--font-color);
   text-align: center;
 }
 
 h2 {
   font-size: 16pt;
+  line-height: 20px;
   color: var(--font-color);
 }
 
@@ -86,6 +88,8 @@ p {
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  font-size: 12px;
+  line-height: 20px;
   color: var(--font-color);
 }
 
