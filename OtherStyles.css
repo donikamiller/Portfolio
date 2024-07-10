@@ -25,7 +25,7 @@ body{
 }
 
 #container{
-  padding: 35px;
+  padding: 20px;
   margin: 30px auto;
   width: 80%;
   min-height: 450px;
@@ -54,7 +54,7 @@ aside{
 
 #articles{
   width: 75%;
-  padding: 20px;
+  padding: 35px;
   min-height: 450px;
   background-color: var(--bg-color);
   float: left;
