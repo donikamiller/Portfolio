@@ -54,6 +54,7 @@ aside{
 
 #articles{
   width: 75%;
+  padding: 20px;
   min-height: 450px;
   background-color: var(--bg-color);
   float: left;
@@ -71,12 +72,14 @@ aside{
 }
 
 h1 {
+  font-family: "DM Sans", sans-serif;
   font-size: 30px;
   color: var(--font-color);
   text-align: center;
 }
 
 h2 {
+  font-family: "DM Sans", sans-serif;
   font-size: 24px;
   color: var(--font-color);
 }
@@ -90,6 +93,7 @@ p {
 }
 
 a {
+  font-family: "DM Sans", sans-serif;
   text-decoration: underline;
   color: var(--secondary-color);
 }
