@@ -81,7 +81,7 @@ h1 {
 h2 {
   font-family: "DM Sans", sans-serif;
   font-size: 24px;
-  color: var(--font-color);
+  color:var(--secondary-color)
   text-align: center;
 }
 
@@ -168,6 +168,7 @@ a:hover {
     min-height: 25px;
     line-height: 25px;
     font-size: 12px;
+    color: var(--accent-color);
     padding: 7px;
   }
 
