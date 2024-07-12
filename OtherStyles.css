@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 :root {
-    --bg-color: #f1eaeffa;
-    --primary-color: #ffffff;
-    --secondary-color: #27ac22;
-    --accent-color: #b0db60;
-    --font-color: #7c5919;
+    --bg-color: #CBB4C0;
+    --primary-color: #EFD78E;
+    --secondary-color: #ffffff;
+    --accent-color: #5F5E8D;
+    --font-color: #543E40;
     font-size: 14px;
 }
 
@@ -15,7 +15,7 @@
 }
 
 body{
-  background-color: var(--accent-color);
+  background-color: var(--bg-color);
   min-width: 320px;
 }
 
@@ -74,7 +74,7 @@ aside{
 h1 {
   font-family: "DM Sans", sans-serif;
   font-size: 30px;
-  color: var(--font-color);
+  color: var(--accent-color);
   text-align: center;
 }
 
@@ -96,12 +96,12 @@ p {
 a {
   font-family: "DM Sans", sans-serif;
   text-decoration: underline;
-  color: var(--secondary-color);
+  color: var(--accent-color);
 }
 
 a:hover {
   text-decoration: underline;
-  color: var(--font-color);
+  color: var(--accent-color);
 }
 
 @media (min-width:320px) and (max-width: 480px){
