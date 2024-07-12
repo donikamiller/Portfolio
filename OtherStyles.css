@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 :root {
-    --bg-color: #e9dede;
-    --primary-color: #4F312F;
+    --bg-color: #788597;
+    --primary-color: #4E3536;
     --secondary-color: #FBF9C8;
-    --accent-color: #AAB15B;
-    --font-color: #4F312F;
+    --accent-color: #DEE3E8;
+    --font-color: #4E3536;
     font-size: 14px;
 }
 
@@ -94,13 +94,18 @@ p {
 
 a {
   font-family: "DM Sans", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
   text-decoration: underline;
-  color: var(--accent-color);
+  color: var(--bg-color);
 }
 
 a:hover {
+  font-family: "DM Sans", sans-serif;
+  font-weight: bold;
+  font-size: 18px;
   text-decoration: underline;
-  color: var(--accent-color);
+  color: var(--bg-color);
 }
 
 @media (min-width:320px) and (max-width: 480px){
