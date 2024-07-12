@@ -37,7 +37,6 @@ header{
   width: 75%;
   float: left;
   height: 100px;
-  background-color: var(--bg-color);
   color: var(--font-color);
   line-height: 100px;
   text-align: center;
@@ -74,14 +73,14 @@ aside{
 h1 {
   font-family: "DM Sans", sans-serif;
   font-size: 30px;
-  color: var(--primary-color);
+  color: var(--bg-color);
   text-align: center;
 }
 
 h2 {
   font-family: "DM Sans", sans-serif;
   font-size: 24px;
-  color: var(--primary-color);
+  color: var(--accent-color);
   text-align: center;
 }
 
@@ -89,7 +88,7 @@ p {
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
-  font-size: 14px;
+  font-size: 16px;
   color: var(--font-color);
 }
 
