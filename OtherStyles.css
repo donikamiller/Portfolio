@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 :root {
-    --bg-color: #CBB4C0;
-    --primary-color: #EFD78E;
-    --secondary-color: #ffffff;
-    --accent-color: #5F5E8D;
-    --font-color: #543E40;
+    --bg-color: #e9dede;
+    --primary-color: #4F312F;
+    --secondary-color: #FBF9C8;
+    --accent-color: #AAB15B;
+    --font-color: #4F312F;
     font-size: 14px;
 }
 
@@ -56,7 +56,7 @@ aside{
   width: 75%;
   padding: 35px;
   min-height: 450px;
-  background-color: var(--bg-color);
+  background-color: var(--secondary-color);
   float: left;
 }
 
