@@ -97,14 +97,13 @@ a {
   font-weight: bold;
   font-size: 18px;
   text-decoration: underline;
-  color: var(--accent-color);
 }
 
 a:hover {
   font-family: "DM Sans", sans-serif;
   font-size: 18px;
   text-decoration: underline;
-  color: var(--font-color);
+  color: var(--bg-color);
 }
 
 @media (min-width:320px) and (max-width: 480px){
