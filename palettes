@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.modern-neutral-grey-color-palette-1-hex { color: #B9CDD8; }
+.modern-neutral-grey-color-palette-2-hex { color: #42382E; }
+.modern-neutral-grey-color-palette-3-hex { color: #EFE4DA; }
+.modern-neutral-grey-color-palette-4-hex { color: #A89E93; }
+.modern-neutral-grey-color-palette-5-hex { color: #F4F4F4; }
+
+/* Color Theme Swatches in Hex */
+.Minimal-Color-Palette-1-hex { color: #A3A698; }
+.Minimal-Color-Palette-2-hex { color: #D9CEC5; }
+.Minimal-Color-Palette-3-hex { color: #BF9A84; }
+.Minimal-Color-Palette-4-hex { color: #EEE9E3; }
+.Minimal-Color-Palette-5-hex { color: #000000; }
+
+/* Color Theme Swatches in Hex */
+.Copy-of-AutumnWinter-1-hex { color: #ECDDBE; }
+.Copy-of-AutumnWinter-2-hex { color: #8D8B55; }
+.Copy-of-AutumnWinter-3-hex { color: #2A293E; }
+.Copy-of-AutumnWinter-4-hex { color: #848283; }
+.Copy-of-AutumnWinter-5-hex { color: #FFFFFF; }
