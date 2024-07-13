@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 :root {
-    --bg-color: #2A293E;
+    --bg-color: #8D8B55;
     --primary-color: #ECDDBE;
     --secondary-color: #FFFFFF;
-    --accent-color: #8D8B55;
+    --accent-color: #2A293E;
     --font-color: #848283;
     font-size: 14px;
 }
@@ -74,7 +74,7 @@ aside{
 h1 {
   font-family: "DM Sans", sans-serif;
   font-size: 30px;
-  color: var(--secondary-color);
+  color: var(--primary-color);
   text-align: center;
 }
 
