@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 :root {
-    --bg-color: #788597;
-    --primary-color: #4E3536;
-    --secondary-color: #FBF9C8;
-    --accent-color: #DEE3E8;
-    --font-color: #4E3536;
+    --bg-color: #737a95;
+    --primary-color: #2b2345;
+    --secondary-color: #eff7c1;
+    --accent-color: #d9d8df;
+    --font-color: #2b2345;
     font-size: 14px;
 }
 
