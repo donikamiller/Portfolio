@@ -94,14 +94,11 @@ p {
 
 a {
   font-family: "DM Sans", sans-serif;
-  font-weight: bold;
-  font-size: 18px;
   text-decoration: underline;
 }
 
 a:hover {
   font-family: "DM Sans", sans-serif;
-  font-size: 18px;
   text-decoration: underline;
   color: var(--bg-color);
 }
