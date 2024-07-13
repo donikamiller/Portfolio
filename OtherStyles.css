@@ -3,8 +3,8 @@
     --bg-color: #2A293E;
     --primary-color: #ECDDBE;
     --secondary-color: #FFFFFF;
-    --accent-color: #848283;
-    --font-color: #2A293E;
+    --accent-color: #8D8B55;
+    --font-color: #848283;
     font-size: 14px;
 }
 
@@ -74,7 +74,7 @@ aside{
 h1 {
   font-family: "DM Sans", sans-serif;
   font-size: 30px;
-  color: #8D8B55;
+  color: var(--primary-color);
   text-align: center;
 }
 
@@ -98,15 +98,14 @@ a {
   font-weight: bold;
   font-size: 18px;
   text-decoration: underline;
-  color: #8D8B55;
+  color: var(--font-color);
 }
 
 a:hover {
   font-family: "DM Sans", sans-serif;
-  font-weight: bold;
   font-size: 18px;
   text-decoration: underline;
-  color: var(--bg-color);
+  color: var(--font-color);
 }
 
 @media (min-width:320px) and (max-width: 480px){
