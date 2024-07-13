@@ -74,7 +74,7 @@ aside{
 h1 {
   font-family: "DM Sans", sans-serif;
   font-size: 30px;
-  color: var(--primary-color);
+  color: #8D8B55;
   text-align: center;
 }
 
@@ -98,7 +98,7 @@ a {
   font-weight: bold;
   font-size: 18px;
   text-decoration: underline;
-  color: var(--font-color);
+  color: #8D8B55;
 }
 
 a:hover {
