@@ -6,7 +6,7 @@ These documents were originally published in searchable help sites that were des
 **USER WORKFLOW GUIDE (WorkflowGuide.pdf)** 
 This excerpt is from a user guide that serves doctors, nurses, office staff, and other medical professionals who engage with an Electronic Medical Records system intermittently, while doing hands-on work with patients. Information is distilled into bite-sized instructions and designed around descriptive headers so that it can be easy to find on-the-fly.
 
-**USER INSTALLATION GUIDE (InstallGuide.pdf)**
+**USER INSTALLATION GUIDE (UserInstallGuide.pdf)**
 Created for a technologically mixed audience, this guide describes the process for customizing the look, feel, and functionality of a webstore. The document is designed to straddle the line between technical/non-technical users in the same way the application itself does.
  
 **DEVELOPER INSTALLATION GUIDE (DevInstall.pdf)**
