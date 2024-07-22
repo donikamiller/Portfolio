@@ -65,9 +65,9 @@ aside{
 }
 
 #articles article{
-  width: 50%;
+  width: 30%;
   height: 200px;
-  background-color: var(--secondary-color);
+  background-color: var(--primary-color);
   color: var(--font-color);
   text-align: center;
   border: 1px solid var(--secondary-color);
