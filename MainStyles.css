@@ -36,7 +36,7 @@ body{
 
 header{
   width: 75%;
-  float: left;
+  float: none;
   height: 100px;
   color: var(--font-color);
   line-height: 100px;
@@ -65,9 +65,9 @@ aside{
 }
 
 #articles article{
-  width: 30%;
-  height: 100px;
-  background-color: var(--bg-color);
+  width: 50%;
+  height: 200px;
+  background-color: var(--secondary-color);
   color: var(--font-color);
   text-align: center;
   border: 1px solid var(--secondary-color);
