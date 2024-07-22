@@ -78,14 +78,14 @@ aside{
 h1 {
   font-family: "DM Sans", sans-serif;
   font-size: 30px;
-  color: var(--primary-color);
+  color: var(--accent-color);
   text-align: center;
 }
 
 h2 {
   font-family: "DM Sans", sans-serif;
   font-size: 24px;
-  color: var(--secondary-color);
+  color: var(--accent-color);
   text-align: center;
 }
 
@@ -99,6 +99,7 @@ p {
 a {
   font-family: "DM Sans", sans-serif;
   text-decoration: underline;
+  color: var(--accent-color);
 }
 
 a:hover {
