@@ -85,7 +85,7 @@ h1 {
 h2 {
   font-family: "DM Sans", sans-serif;
   font-size: 24px;
-  color: var(--accent-color);
+  color: var(--secondary-color);
   text-align: center;
 }
 
