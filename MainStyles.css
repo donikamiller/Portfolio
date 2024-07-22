@@ -45,7 +45,6 @@ header{
 
 aside{
   width: 25%;
-  min-height: 500px;
   padding-top: 35px;
   padding-left: 10px;
   padding-right: 10px;
@@ -58,7 +57,6 @@ aside{
 #articles{
   width: 75%;
   padding: 35px;
-  min-height: 500px;
   background-color: var(--secondary-color);
   float: left;
 }
