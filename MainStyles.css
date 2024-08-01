@@ -58,7 +58,7 @@ aside{
 #articles{
   width: 75%;
   padding: 35px;
-  min-height: auto;
+  min-height: 100%;
   background-color: var(--secondary-color);
   float: left;
 }
